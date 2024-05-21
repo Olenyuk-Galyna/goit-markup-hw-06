@@ -409,19 +409,19 @@ ul.icon-container-menu {
 @media (min-resolution: 192dpi) and (min-width: 320px) {
     .hero {
         max-width: 320px;
-        background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/people-office-mobile.jpg);
+        background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office/people-office-mobile.jpg);
     }
 }
 @media (min-resolution: 192dpi) and (min-width: 768px) {
     .hero {
         max-width: 768px;
-        background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./imeges/people-office-tablet.jpg);
+        background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office/people-office-tablet@2x.jpg);
     }
 }
 @media (min-resolution: 192dpi) and (min-width: 1158px) {
     .hero {
         max-width: 1440px;
-        background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/people-office-desktop.jpg);
+        background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office/people-office-desktop@3x.jpg);
     }
 }
 @media screen and (min-width: 320px) {
